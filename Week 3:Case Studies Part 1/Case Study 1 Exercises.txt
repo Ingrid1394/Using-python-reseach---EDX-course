@@ -1,0 +1,6 @@
+#Exercise 1
+#In Exercise 1, we will define the alphabet used in the cipher.
+#The sample code imports the string library has been imported. 
+#Create a string called alphabet consisting of the space character (' ') 
+#followed by (concatenated with) the lowercase letters. 
+#Note that we're only using the lowercase letters in this exercise.
